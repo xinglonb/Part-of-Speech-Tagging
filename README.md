@@ -1,4 +1,4 @@
-# Part-ofSpeech-Tagging
+# Part-of-Speech-Tagging
 Bidirectional-RNN for Part of Speech Tagging
 Structure
 1 Embedding Layer
